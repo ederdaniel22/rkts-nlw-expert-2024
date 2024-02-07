@@ -1,3 +1,6 @@
 {
-	"cSpell.words": ["docparams", "pylint", "pylintrc", "rcfile"]
+	"cSpell.words": ["docparams", "pylint", "pylintrc", "rcfile"],
+	"files.exclude": {
+		"**/__pycache__": true
+	}
 }
